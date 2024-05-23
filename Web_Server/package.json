@@ -1,0 +1,22 @@
+{
+  "name": "hola_mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto conectando un js en un servidor ",
+  "main": "hola_mundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lainodHO/Hola_Mundo.git"
+  },
+  "keywords": [
+    "Hola_Mundo"
+  ],
+  "author": "Daniel Hernández Olague",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lainodHO/Hola_Mundo/issues"
+  },
+  "homepage": "https://github.com/lainodHO/Hola_Mundo#readme"
+}
